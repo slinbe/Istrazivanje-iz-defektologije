@@ -1,4 +1,4 @@
-# Istrazivanje-iz-defektologije
+# Istraživanje-iz-defektologije
 Cilj ovog istaživanja je utvrditi postojanje problema u funkcionisanju braće is sestara osoba sa autizmom i odnos ovih problema sa različitim sociodemografskim i porodičnim karakteristikama. 
 
 U skladu sa ciljem istraživanja postavljene su sledeće hipoteze:
